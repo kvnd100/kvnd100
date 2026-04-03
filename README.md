@@ -33,8 +33,8 @@ Software Engineer passionate about building full-stack web applications with mod
 ## GitHub Stats
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kvnd100&show_icons=true&theme=default&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvnd100&layout=compact&theme=default&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=kvnd100&theme=default&hide_border=true" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kvnd100&theme=default" />
 </p>
 
 ## Connect
