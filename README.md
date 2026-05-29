@@ -9,8 +9,8 @@
 <br />
 
 <img src="https://komarev.com/ghpvc/?username=kvnd100&label=VISITORS&color=00FFFF&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/kvnd100?label=FOLLOWERS&style=for-the-badge&color=FF00C8&labelColor=0D1117" />
-<img src="https://img.shields.io/github/stars/kvnd100?label=STARS&style=for-the-badge&color=9D00FF&labelColor=0D1117" />
+<a href="https://github.com/kvnd100?tab=followers"><img src="https://img.shields.io/badge/FOLLOW-FF00C8?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://github.com/kvnd100?tab=repositories"><img src="https://img.shields.io/badge/REPOS-9D00FF?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" /></a>
 
 </div>
 
@@ -78,27 +78,40 @@ const kavindu = {
 
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/kvnd100/mo-marketplace-web">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kvnd100&repo=mo-marketplace-web&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00C8&text_color=c9d1d9" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/kvnd100/AI-powered-website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kvnd100&repo=AI-powered-website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00C8&text_color=c9d1d9" />
-      </a>
+    <th align="left">PROJECT</th>
+    <th align="left">DESCRIPTION</th>
+    <th align="left">STACK</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/kvnd100/mo-marketplace-web"><b>mo-marketplace-web</b></a></td>
+    <td>Marketplace web application</td>
+    <td>
+      <img src="https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/kvnd100/portfolio-website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kvnd100&repo=portfolio-website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00C8&text_color=c9d1d9" />
-      </a>
+    <td><a href="https://github.com/kvnd100/AI-powered-website"><b>AI-powered-website</b></a></td>
+    <td>AI-powered web application</td>
+    <td>
+      <img src="https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/-AI-9D00FF?style=flat-square&logo=openai&logoColor=white" />
     </td>
-    <td width="50%">
-      <a href="https://github.com/kvnd100/Inventory-Management-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kvnd100&repo=Inventory-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00C8&text_color=c9d1d9" />
-      </a>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/kvnd100/portfolio-website"><b>portfolio-website</b></a></td>
+    <td>Personal portfolio site</td>
+    <td>
+      <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/kvnd100/Inventory-Management-System"><b>Inventory-Management-System</b></a></td>
+    <td>Inventory management system</td>
+    <td>
+      <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -143,8 +156,8 @@ const kavindu = {
 
 <div align="center">
 
-<a href="https://kvnd100.github.io/portfolio-website/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=githubpages&logoColor=00FFFF&labelColor=0D1117" />
+<a href="https://kvnd100.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00FFFF&labelColor=0D1117" />
 </a>
 <a href="https://github.com/kvnd100">
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=FF00C8&labelColor=0D1117" />
